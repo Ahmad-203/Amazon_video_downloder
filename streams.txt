@@ -1,0 +1,6 @@
+https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/95f9e162-2d16-4727-828c-b276aa946f07/default.jobtemplate.hls.m3u8
+https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/68523999-61db-4778-9729-893e2b622e3e/default.jobtemplate.hls.m3u8
+https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8e461303-99e1-4300-b6a9-11674d4b82a4/default.jobtemplate.hls.m3u8
+https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/22ea6788-e05f-4f67-85e0-ab9bce4d79ce/default.vertical.jobtemplate.hls.m3u8
+https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b86dcd1e-f669-4cce-8448-1db6a89e438f/default.jobtemplate.hls.m3u8
+https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c9e52847-2e91-4609-91bf-8fee1cc07c7b/default.vertical.jobtemplate.hls.m3u8
